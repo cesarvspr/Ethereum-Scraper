@@ -9,4 +9,4 @@ python code.py
 
 ### Requirements
 
-Have a .csv file with the address of the contracts that you want. The script will create a new .csv with the Contract Creation Code requested.
+Have a .csv file with the address colunm of the contracts that you want. The script will create a new .csv with the Contract Creation Code requested.
