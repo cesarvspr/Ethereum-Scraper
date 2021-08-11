@@ -1,6 +1,8 @@
 # Ethereum-Scraper
 Python script GET Contract Creation Code from etherscan.io
 
+Contract creation code is full bytecode from what contract was deployed on etherscan.io 
+
 # Usage
 
 ```
