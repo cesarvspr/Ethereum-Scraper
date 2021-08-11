@@ -14,7 +14,7 @@ headers = {
 
 
 def main():
-    filename = 'table.csv'
+    filename = 'example.csv'
     df = pd.read_csv(filename)
    
     bin = []
